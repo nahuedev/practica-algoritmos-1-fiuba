@@ -26,5 +26,3 @@ def calcula_operaciones_basicas(a,b):
 
 
 calcula_operaciones_basicas(2,2)
-
-#b
